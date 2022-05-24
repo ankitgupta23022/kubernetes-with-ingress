@@ -1,0 +1,7 @@
+Ingress is somewhat DNS according to my understanding as of now...
+
+ie It maps Domains to paths
+
+eg:-
+
+www.test.com ---------> /test
